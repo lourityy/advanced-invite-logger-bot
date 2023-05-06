@@ -4,7 +4,7 @@
 
 - [x] Ayarlamalı
 - [x] Hatasız
-- [x] Mesajı Ayarlanabilir
+- [x] Modüler
 
 ## 📷 Görseller
 ![image](https://media.discordapp.net/attachments/1100516959126294629/1104510607971061790/image.png)
